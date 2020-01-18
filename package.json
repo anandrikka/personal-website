@@ -1,0 +1,21 @@
+{
+  "name": "anandrikka-personal-website",
+  "version": "1.0.0",
+  "description": "A static personal website about me !!",
+  "scripts": {
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandrikka/personal-website.git"
+  },
+  "keywords": [
+    "personal-website",
+    "anandrikka"
+  ],
+  "author": "ARikka",
+  "homepage": "https://github.com/anandrikka/personal-website#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

@@ -548,7 +548,7 @@ button:focus,
 }
 
 .progress-item .progress-bar {
-  background-color: #2a54f5;
+  background-color: #258;
   box-shadow: none;
   text-align: right;
 }
@@ -699,7 +699,7 @@ button:focus,
  * Preloader
  * ====================*/
 #preloader {
-  background: #2a54f5;
+  background: #258;
   bottom: 0;
   left: 0;
   position: fixed;

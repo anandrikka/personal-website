@@ -62,24 +62,12 @@ export default {
         "confidence_level": "75"
       },
       {
-        "technology": "Python",
-        "confidence_level": "50"
-      },
-      {
-        "technology": "Spring Framework",
-        "confidence_level": "60"
-      },
-      {
         "technology": "ReactJS",
         "confidence_level": "90"
       },
       {
-        "technology": "VueJS",
+        "technology": "Spring Framework",
         "confidence_level": "60"
-      },
-      {
-        "technology": "AngularJS",
-        "confidence_level": "40"
       },
       {
         "technology": "Git",
@@ -90,12 +78,12 @@ export default {
         "confidence_level": "40"
       },
       {
-        "technology": "Dockers",
-        "confidence_level": "30"
+        "technology": "VueJS",
+        "confidence_level": "60"
       },
       {
-        "technology": "Microservices",
-        "confidence_level": "40"
+        "technology": "Python",
+        "confidence_level": "50"
       },
       {
         "technology": "Data Analytics",
@@ -104,6 +92,18 @@ export default {
       {
         "technology": "Machine Learning",
         "confidence_level": "60"
+      },
+      {
+        "technology": "AngularJS",
+        "confidence_level": "40"
+      },
+      {
+        "technology": "Dockers",
+        "confidence_level": "30"
+      },
+      {
+        "technology": "Microservices",
+        "confidence_level": "40"
       },
       {
         "technology": "Kafka",

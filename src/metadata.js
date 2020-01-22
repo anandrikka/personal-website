@@ -2,9 +2,9 @@ export default {
   "name": "Anand Rikka",
   // "title": "Full Stack Web Developer",
   "summary": [
-    "Job - Restful webservices and Single page applications.",
-    "Goal - \"Enterprise Architect\" and I'm trying my best to become one.",
-    "Roles - A son, brother and a husband.",
+    "Today -  Developer, Restful webservices and Single page applications.",
+    "Future - \"Enterprise Architect\" and I'm trying my best to become one.",
+    "Activies - cooking, reading & movies",
     "I'm not a social media addict (no facebook or instagram) - Cheers !!"
   ],
   "social": [

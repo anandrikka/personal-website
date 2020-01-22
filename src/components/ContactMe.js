@@ -15,7 +15,7 @@ function ContactMe() {
               method="POST"
             >
               <div className="form-group">
-                <label for="InputName">Name</label>
+                <label htmlFor="InputName">Name</label>
                 <input
                   type="text"
                   name="name"
@@ -26,7 +26,7 @@ function ContactMe() {
                 />
               </div>
               <div className="form-group">
-                <label for="InputEmail">Email address</label>
+                <label htmlFor="InputEmail">Email address</label>
                 <input
                   type="email"
                   name="email"
@@ -37,7 +37,7 @@ function ContactMe() {
                 />
               </div>
               <div className="form-group">
-                <label for="InputSubject">Subject</label>
+                <label htmlFor="InputSubject">Subject</label>
                 <input
                   type="text"
                   name="subject"
@@ -47,7 +47,7 @@ function ContactMe() {
                 />
               </div>
               <div className="form-group">
-                <label for="message-text" className="control-label">
+                <label htmlFor="message-text" className="control-label">
                   Message
                 </label>
                 <textarea

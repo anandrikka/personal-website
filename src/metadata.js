@@ -1,9 +1,11 @@
 export default {
   "name": "Anand Rikka",
-  "title": "Full Stack Web Developer",
+  // "title": "Full Stack Web Developer",
   "summary": [
-    "A genuine, honest person who don't believe in self exaggeration, but believes in boundaries b/w personal and professional life.",
-    "Beside work, I like learning new stuff, cooking food, reading articles, hitting gym, going for long walks and watching movies."
+    "Job - Restful webservices and Single page applications.",
+    "Goal - \"Enterprise Architect\" and I'm trying my best to become one.",
+    "Roles - A son, brother and a husband.",
+    "I'm not a social media addict (no facebook or instagram) - Cheers !!"
   ],
   "social": [
     {
@@ -21,32 +23,57 @@ export default {
   ],
   "sections": ["intro"],
   "intro": {
-    "title": "History and Facts",
+    "title": "About me",
     "content": [
-      "As a kid I was dumb and not much into studies Credibly embrace visionary internal or \"organic\" sources and business benefits. Collaboratively integrate efficient portals rather than customized customer service. Assertively deliver frictionless services via leveraged interfaces. Conveniently evisculate accurate sources and process-centric expertise. Energistically fabricate customized imperatives through cooperative catalysts for change.",
-      "Dramatically predominate mission-critical materials and cooperative systems. Holisticly synergize optimal results through team building \"outside the box\" thinking. Seamlessly facilitate frictionless relationships via robust imperatives. Monotonectally brand wireless products and excellent action items. Monotonectally disintermediate granular alignments via sustainable infomediaries."
+      "I was born and brought up from a small town in India. I completed my bachelor's from Electronics and Communications and started my career as a Java support analyst and almost immediately started liking my job. I'm not a comfort zoner and try to keep up with ever-changing technologies. I push my boundaries to learn new stuff and like working in a challenging environment.",
+      "7+ of experience in coding, worked in healthcare and finance domains. I perform daily activities exceptionally well and reach delivery targets on time."
     ]
   },
   "soft_skills": {
     "title": "Soft Skills",
+    "description": "I developed these skills over years",
     "content": [
       {
-        "title": "Problem Solver",
+        "title": "Communication",
         "size": "12",
         "classes": "expertise-item",
-        "description": "I developed this skill over years. I believe finding solutions or solving problems is not a one man show (No EGO's pls). Problem solving is a mixture of lot of things. Skills I acquired for problem solving are attention to problem, analyze (brainstorm), research, communication, collabration and team work."
+        "description": "-"
+      },
+      {
+        "title": "Teamwork",
+        "size": "12",
+        "classes": "expertise-item",
+        "description": "-"
       },
       {
         "title": "Collabration",
-        "size": "6",
+        "size": "12",
         "classes": "expertise-item",
-        "description": "Quickly repurpose reliable customer service with orthogonal ideas. Competently."
+        "description": "-"
       },
       {
-        "title": "Collabration",
-        "size": "6",
+        "title": "Adaptability",
+        "size": "12",
         "classes": "expertise-item",
-        "description": "Quickly repurpose reliable customer service with orthogonal ideas. Competently."
+        "description": "-"
+      },
+      {
+        "title": "Time management",
+        "size": "12",
+        "classes": "expertise-item",
+        "description": "-"
+      },
+      {
+        "title": "Work ethics",
+        "size": "12",
+        "classes": "expertise-item",
+        "description": "-"
+      },
+      {
+        "title": "Problem Solving",
+        "size": "12",
+        "classes": "expertise-item",
+        "description": "-"
       }
     ]
   },
@@ -140,7 +167,7 @@ export default {
       {
         "duration": "2019 - Current",
         "level1": "Post Graduate Diploma in Machine Learning and Artifical Intelligence (Online)",
-        "level2": "Finance (Asset Management)",
+        "level2": "Great Learning (University of Texas)",
         "level3": "Boston, United States"
       },
       {

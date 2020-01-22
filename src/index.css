@@ -552,7 +552,7 @@ button:focus,
 }
 
 .progress-item .progress {
-  height: 4px;
+  height: 8px;
   box-shadow: none;
   border-radius: 5px;
 }
@@ -567,19 +567,21 @@ button:focus,
   font-size: 10px;
   background-color: #313131;
   position: absolute;
-  top: 5px;
+  /* top: 5px; */
+  bottom: -5px;
   padding: 0 8px;
   border-radius: 3px;
+  margin-left: 3px;
 }
 
-.progress-item .progress-percent::before {
+/* .progress-item .progress-percent::before {
   content: "";
   position: absolute;
   left: 0;
   bottom: -4px;
   border-top: 6px solid #313131;
   border-right: 8px solid transparent;
-}
+} */
 
 /*-------------------
  * Portfolio

@@ -33,47 +33,39 @@ export default {
     "title": "Soft Skills",
     "description": "I developed these skills over years",
     "content": [
+      // {
+      //   "skill": "Communication",
+      //   "size": "12",
+      //   "classes": "expertise-item",
+      //   "description": "-"
+      // },
       {
-        "title": "Communication",
-        "size": "12",
-        "classes": "expertise-item",
-        "description": "-"
+        "skill": "Communications",
+        "confidence_level": "80"
       },
       {
-        "title": "Teamwork",
-        "size": "12",
-        "classes": "expertise-item",
-        "description": "-"
+        "skill": "Teamwork",
+        "confidence_level": "90"
       },
       {
-        "title": "Collabration",
-        "size": "12",
-        "classes": "expertise-item",
-        "description": "-"
+        "skill": "Collabration",
+        "confidence_level": "90"
       },
       {
-        "title": "Adaptability",
-        "size": "12",
-        "classes": "expertise-item",
-        "description": "-"
+        "skill": "Adaptability",
+        "confidence_level": "85"
       },
       {
-        "title": "Time management",
-        "size": "12",
-        "classes": "expertise-item",
-        "description": "-"
+        "skill": "Time management",
+        "confidence_level": "90"
       },
       {
-        "title": "Work ethics",
-        "size": "12",
-        "classes": "expertise-item",
-        "description": "-"
+        "skill": "Work ethics",
+        "confidence_level": "90"
       },
       {
-        "title": "Problem Solving",
-        "size": "12",
-        "classes": "expertise-item",
-        "description": "-"
+        "skill": "Problem Solving",
+        "confidence_level": "80"
       }
     ]
   },

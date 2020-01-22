@@ -13,7 +13,7 @@ function ProgressItem({ name, percent }) {
           aria-valuemax="100"
           style={{ width: `${percent}%` }}
         >
-          <span className="progress-percent"> {percent}%</span>
+          <span className="progress-percent"> {percent/10}</span>
         </div>
       </div>
     </div>
